@@ -1,6 +1,6 @@
 {
   "name": "@openai/openai",
-  "version": "6.33.0",
+  "version": "6.33.1",
   "exports": {
     ".": "./index.ts",
     "./helpers/zod": "./helpers/zod.ts",

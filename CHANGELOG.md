@@ -1,5 +1,24 @@
 # Changelog
 
+## 6.33.1 (2026-03-28)
+
+Full Changelog: [v6.33.0...v6.33.1](https://github.com/openai/openai-node/compare/v6.33.0...v6.33.1)
+
+### Bug Fixes
+
+* **api:** remove web_search_call.results from ResponseIncludable in responses ([1f6968e](https://github.com/openai/openai-node/commit/1f6968e1c0add39034d26f4268a75cadad42abf0))
+
+
+### Chores
+
+* **internal:** codegen related update ([1081460](https://github.com/openai/openai-node/commit/1081460b68a90915fb019f81d9c24c0dfa48a3c4))
+* **internal:** update multipart form array serialization ([3faee8d](https://github.com/openai/openai-node/commit/3faee8da8d286871adb3ce1258df57aab67272da))
+
+
+### Documentation
+
+* **api:** add multi-file ingestion recommendations to vector-stores files/file-batches ([1bc32a3](https://github.com/openai/openai-node/commit/1bc32a3cbc4d453e2835db3a1844e7c99f55df24))
+
 ## 6.33.0 (2026-03-25)
 
 Full Changelog: [v6.32.0...v6.33.0](https://github.com/openai/openai-node/compare/v6.32.0...v6.33.0)
